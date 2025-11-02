@@ -324,4 +324,5 @@ app.layout = html.Div([
 # 5. EJECUCIÓN DEL SERVIDOR
 # ====================================================
 if __name__ == "__main__":
-    app.run(debug=True)
+
+    app.run_server(debug=True)
