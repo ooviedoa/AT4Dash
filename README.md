@@ -12,6 +12,8 @@ El proyecto busca mostrar estadísticamente las causas, la orientación sexual, 
 # Estructura del proyecto
 
 Carpeta principal:
+│
+├──
   |- README.md # Contiene la descripción del proyecto
   |- NoFetal2019_BD.xlsx: Contiene la información de la mortalidad de Colombia en 2019
   |- requeriments.txt: Contiene las librerias del proyecto
