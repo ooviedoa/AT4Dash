@@ -11,33 +11,16 @@ El proyecto busca mostrar estadísticamente las causas, la orientación sexual, 
 
 # Estructura del proyecto
 
-📁 Mortalidad-Colombia-2019
-│
-├── main.py # Código principal de la aplicación Dash
-├── NoFetal2019.xlsx # Datos de mortalidad (DANE - EEVV 2019)
-├── CodigosDeMuerte.xlsx # Diccionario de códigos y nombres de causas
-├── Divipola.xlsx # División político-administrativa de Colombia
-│
-├── requirements.txt # Lista de librerías necesarias
-├── README.md # Descripción del proyecto (este archivo)
-│
-└── assets/ # Carpeta opcional para estilos CSS o imágenes
-├── captura_mapa.png
-├── captura_lineas.png
-└── captura_barras.png
-
-Carpeta principal:
-│
-├──
-  |- README.md # Contiene la descripción del proyecto
+📁Carpeta principal:
+  |- README.md: Contiene la descripción del proyecto
   |- NoFetal2019_BD.xlsx: Contiene la información de la mortalidad de Colombia en 2019
   |- requeriments.txt: Contiene las librerias del proyecto
-  |- Carpeta src:
+  |- 📁Carpeta src:
        |- app.py: Código principal del proyecto
 
 # Requisitos: 
 
-Las librerias necesarisas para el proyecto son:
+🧰 Las librerias necesarisas para el proyecto son:
 
 dash==3.2.0
 dash-bootstrap-components==2.0.4
