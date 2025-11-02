@@ -1,7 +1,7 @@
 # AT4Dash
 Actividad 4 Aplicaciones Despliegue Dash
 
-# Introducción del proyecto
+## Introducción del proyecto
 
 En este proyecto se muestran diferentes gráficos sobre la mortalidad de Colombia en el año 2019, para esto usamos las bibliotecas de plotly, pandas y dash para mostrar la información y subir el proyecto a un servidos PaaS. La información fue descargada desde la página oficial del Departamento Administrativo Nacional de Estadísticas (DANE) de Colombia.
 
