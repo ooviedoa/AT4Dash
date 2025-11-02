@@ -21,6 +21,7 @@ Carpeta principal:
 # Requisitos: 
 
 Las librerias necesarisas para el proyecto son:
+
 dash==3.2.0
 dash-bootstrap-components==2.0.4
 dash-table==5.0.0
